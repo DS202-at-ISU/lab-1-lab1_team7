@@ -26,4 +26,4 @@ Zane's Experience:
   
   **12.3**: No problems, the instructions were very thorough and helpful.
   
-  **12.4**: This is a line from RStudio. Commit test. I ran into an issue where I forgot my github account password, and had to reset it. Now it isn't letting me save my file, pull, push, or commit. I used task manager to close and restart RStudio and will try to commit again.
+  **12.4**: This is a line from RStudio. Commit test. I ran into an issue where I forgot my github account password, and had to reset it. Now it isn't letting me save my file, pull, push, or commit. I used task manager to close and restart RStudio and will try to commit again. It seems to be working now, but I am now finding merge conflict issues due to Ryan's commit. RStudio is being remarkably unhelpful with telling me how to resolve them. I think staging my changes worked, we'll see though.
