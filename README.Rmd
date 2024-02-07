@@ -23,6 +23,20 @@ This is a line from RStudio - Ryan
 
 This is a line from RStudio - John
 
+John's Experience:
+
+  **12.1**: No problems, I already had GitHub and RStudio
+  
+  **12.2**: No problems, everyone had the same issue where only one person could join each team
+  
+  **12.3**: No problems, although I redid this step to get the repository in my class folder
+  
+  **12.4**: It said there were unresolved merge conflicts when I committed, although it was easily fixable
+  
+  **12.5**: I was able to successfully merge everything together in RStudio and push an updated version to GitHub
+  
+  **12.6**: All lines showed up in GitHub
+
 Zane's Experience:
 
   **12.1**: No problems, I already had a git account and had R and RStudio installed.
