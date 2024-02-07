@@ -25,6 +25,16 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 =======
 This is a line from RStudio - Ryan
 
+Ryan's experience:
+
+  **12.1**: Encountered no problems, already had Git installed on my machine and GitHub connected to RStudio.
+  
+  **12.2**: GitHub repo was already created, we just needed everyone to access it.
+  
+  **12.3**: Encountered no problems.
+  
+  **12.4**: Committed the line from RStudio into the Github repo successfully.
+
 This is a line from RStudio - John
 
 John's Experience:
